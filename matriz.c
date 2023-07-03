@@ -178,7 +178,6 @@ int main()
             op5 = 0;
             scanf("%d", &op5);
             if (op5 == 1)
-                ;
             {
                 for (int linha = 0; linha < 3; linha++)
                 {
